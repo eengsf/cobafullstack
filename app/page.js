@@ -4,7 +4,10 @@ export default function Home() {
   return (
     <>
       {/* <TopicsList /> */}
-      <div>Shofiyul Fuad</div>
+      <div>
+        <h1>Shofiyul Fuad</h1>
+        <p>Hello</p>
+      </div>
     </>
   );
 }
