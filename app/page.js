@@ -7,6 +7,7 @@ export default function Home() {
       <div>
         <h1>Shofiyul Fuad</h1>
         <p>Hello</p>
+        <p>lagi</p>
       </div>
     </>
   );
